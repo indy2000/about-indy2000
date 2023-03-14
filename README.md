@@ -47,3 +47,8 @@ I'm a Android Developer who also works with .NET applications and love to learn 
   <a href="https://www.linkedin.com/in/yago-alves-56706799/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
+
+  
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
